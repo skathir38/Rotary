@@ -1,0 +1,17 @@
+{
+	"name": "Rotary",
+	"version": "1.5.0",
+	"keywords": "rotary encoder, esp8266, Arduino",
+	"description": "ESP8266/Arduino Library for reading rotary encoder values.",
+	"homepage": "https://github.com/skathir38/Rotary",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/skathir38/Rotary"
+	},
+	"authors": {
+		"name": "KAthiR",
+		"url": ""
+	},
+	"frameworks": "arduino",
+	"platforms": "*"
+}
